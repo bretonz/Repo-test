@@ -5,6 +5,7 @@ red
 blue
 yellow
 orange
+BROWN
 green
 lime green
 pink
